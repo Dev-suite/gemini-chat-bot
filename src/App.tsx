@@ -1,11 +1,11 @@
 import './App.css';
-import {GeminiChat} from './components/GeminiChat';
+import { PresentationSlide } from './components/PresentationSlide';
 
 
 function App() {
   return (
     <div className="App">
-      <GeminiChat />
+      <PresentationSlide />
     </div>
   );
 }
